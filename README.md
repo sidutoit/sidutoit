@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon 👋
 
-## UNDER CONSRTUCTION
+## 🚧 UNDER CONSRTUCTION 🚧
 
 [![GitHub Streak](https://github-readme-streak-stats-psi-lime.vercel.app/?user=sidutoit&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
