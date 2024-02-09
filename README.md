@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there, I'm Simon 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sidutoit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sidutoit&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
