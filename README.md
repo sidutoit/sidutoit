@@ -2,7 +2,7 @@
 
 ## 🚧 UNDER CONSRTUCTION 🚧
 
-## Current Technology Stack
+## 💻 Current Technology Stack 💻
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -16,7 +16,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </div>
 
-## Vroom Vroom 🔥
+##  🔥 Streaks and Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-psi-lime.vercel.app/?user=sidutoit&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
