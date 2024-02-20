@@ -1,8 +1,12 @@
 # Hi there, I'm Simon 👋
 
-Currently applying my trade as a Software Engineer in the Cybersec space, at Phishfort.
+I as a Software Engineer, am currently applying my trade in the Cybersec space, at Phishfort.
 
-At Phishfort, I am responsible and have ownership for a number of systems, products and features, some being automated takedown services, while others using Machine Learning and Artificial Intelligence to detect malicious actors for domains, apps and also including social platforms.
+In my role at Phishfort, I take ownership of various systems, products, and features, including:
+
+- Automated takedown services.
+- Implementing Machine Learning (ML) and Artificial Intelligence (AI) for malicious actor detection.
+- Overseeing security measures (both detection and takedowns) for domains, apps, and social platforms.
 
 ## 💻 Current Technology Stack 💻
 
