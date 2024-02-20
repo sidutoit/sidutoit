@@ -5,7 +5,7 @@ I as a Software Engineer, am currently applying my trade in the Cybersec space, 
 In my role at Phishfort, I take ownership of various systems, products, and features, including:
 
 - Automated takedown services.
-- Implementing Machine Learning (ML) and Artificial Intelligence (AI) for malicious actor detection.
+- Implementing Machine Learning (ML) and Artificial Intelligence (AI) systems for malicious actor detection.
 - Overseeing security measures (both detection and takedowns) for domains, apps, and social platforms.
 
 ## 💻 Current Technology Stack 💻
