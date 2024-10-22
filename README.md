@@ -7,6 +7,7 @@ In my role at Phishfort, I take ownership of various systems, products, and feat
 - Automated takedown services.
 - Implementing Machine Learning (ML) and Artificial Intelligence (AI) systems for detecting malicious actors.
 - Overseeing security measures (both detection and takedowns) for domains, apps, and social platforms.
+- Building internal tools and platforms to automate workflows, enhance productivity, and simplify the work of our analysts.
 
 ## 💻 Current Technology Stack
 
