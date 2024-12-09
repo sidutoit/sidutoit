@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-Currently applying my trade as a Software Engineer in the Cyber-Security space, at Phishfort.
+Currently I am the Takedown Team Lead, applying my trade as a Senior Software Engineer in the Cyber-Security space, at Phishfort.
 
 In my role at Phishfort, I take ownership of various systems, products, and features, including:
 
