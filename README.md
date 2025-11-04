@@ -1,13 +1,13 @@
 # Hi there, I'm Simon 👋
 
-I'm currently the Takedown Team Lead and Senior Software Engineer at Phishfort, working at the intersection of cybersecurity, automation, and innovation.
+I currently serve as a Team Lead | Senior Software Engineer at Phishfort, where I guide and support a high-performing team while driving the development of systems focused on takedown operations.
 
-In my role, I take ownership of a range of systems, products, and features, including:
+In this role, I specialize in:
 
-- Automated takedown services.
-- Implementing Machine Learning (ML) and Artificial Intelligence (AI) systems for detecting malicious actors.
-- Overseeing security measures (both detection and takedowns) for domains, apps, and social platforms.
-- Building internal tools and platforms to automate workflows, enhance productivity, and simplify the work of our analysts.
+- Guiding a focused team of engineers and cybersecurity specialists to deliver high-impact solutions with strong throughput and consistent velocity.
+
+- Architecting and implementing automated takedown services powered by agentic AI workflows.
+- Designing, building and enhancing the SOC platform & internal tooling - to streamline workflows, reduce manual effort, and enable analysts to work more effectively.
 
 ## 💻 Current Technology Stack
 
