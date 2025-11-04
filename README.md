@@ -4,9 +4,9 @@ I currently serve as Team Lead | Senior Software Engineer at Phishfort, where I 
 
 In this role, I focus on:
 
-- Leading a multidisciplinary team of engineers and cybersecurity specialists to deliver high-impact solutions with consistency and speed.
-- Architecting and implementing automated takedown services leveraging agentic AI workflows to improve efficiency and scalability.
-- Designing, building, and enhancing the SOC platform and supporting tools to streamline workflows, reduce manual effort, and enable analysts to operate more effectively.
+- Leading a multidisciplinary team of engineers and cybersecurity specialists to consistently deliver high-impact solutions.
+- Architecting and implementing automated takedown services using agentic AI workflows to boost efficiency and scalability.
+- Designing and enhancing the SOC platform and supporting tools to streamline workflows, reduce manual effort, and enable analysts to work more effectively.
 
 ## 💻 Current Technology Stack
 
