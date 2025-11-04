@@ -1,13 +1,12 @@
 # Hi there, I'm Simon 👋
 
-I currently serve as a Team Lead | Senior Software Engineer at Phishfort, where I guide and support a high-performing team while driving the development of systems focused on takedown operations.
+I currently serve as Team Lead | Senior Software Engineer at Phishfort, where I guide and support a high-performing team in developing systems that power our takedown operations.
 
-In this role, I specialize in:
+In this role, I focus on:
 
-- Guiding a focused team of engineers and cybersecurity specialists to deliver high-impact solutions with strong throughput and consistent velocity.
-
-- Architecting and implementing automated takedown services powered by agentic AI workflows.
-- Designing, building and enhancing the SOC platform & internal tooling - to streamline workflows, reduce manual effort, and enable analysts to work more effectively.
+- Leading a multidisciplinary team of engineers and cybersecurity specialists to deliver high-impact solutions with consistency and speed.
+- Architecting and implementing automated takedown services leveraging agentic AI workflows to improve efficiency and scalability.
+- Designing, building, and enhancing the SOC platform and supporting tools to streamline workflows, reduce manual effort, and enable analysts to operate more effectively.
 
 ## 💻 Current Technology Stack
 
