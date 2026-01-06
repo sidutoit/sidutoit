@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-I currently serve as Team Lead | Senior Software Engineer at Phishfort, where I guide and support a high-performing team in developing systems that power our takedown operations.
+I currently serve as a Lead Software Engineer at Phishfort, where I guide and support a high-performing team in developing systems that power our takedown operations.
 
 In this role, I focus on:
 
